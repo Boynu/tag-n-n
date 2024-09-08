@@ -306,8 +306,8 @@ def butonlastir(sayfa, moduller):
 with bot:
     if AVTO_Q:
         try:
-            bot(JoinChannelRequest("@Nezrinsupp"))
-            bot(JoinChannelRequest("@nezrinsupp"))
+            bot(JoinChannelRequest("@Kayfina"))
+            bot(JoinChannelRequest("@Kayfina"))
         except:
             pass
 
@@ -349,7 +349,7 @@ with bot:
                 )
             else:
                 result = builder.article(
-                    "@UseratorOT",
+                    "@Kayfina",
                     text="""@UseratorOT'u işlətməyi yoxlayın!
 Hesabınızı bot'a çevirə bilərsiz və bunları işlədə bilərsiz. Unutmayın, siz başqasının botunu idarə edə bilmərsiz! Altdakı GitHub adresindən bütün qurulum haqda məlumat var.""",
                     buttons=[
