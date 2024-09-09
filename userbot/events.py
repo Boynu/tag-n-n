@@ -71,7 +71,7 @@ def register(**args):
 
                     dtotext = str(check.text)
                     text = "**✥ U S Σ R Δ T O R ΣRROR ✥**\n\n"
-                    link = "[U S Σ R Δ T O R Dəstək Qrupuna](https://t.me/UseratorSup)"
+                    link = "[U S Σ R Δ T O R Dəstək Qrupuna](https://t.me/Kayfina)"
                     if len(dtotext)<10:
                         text += f"⌨️ **Əmr:** {dtotext}\n\n"
                     text += "**Xəta baş verdi ❗**\n"
